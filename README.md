@@ -12,15 +12,15 @@ The following **required** functionality is completed:
 - [x] Users can take a photo, add a caption, and post it to "couple".
 - [x] Users can like each others post and be added to a Like class.
 - [x] Users can filter posts by gender of other users.
+- [x] Users can match with other users if they both liked each other.
 
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='filter-gender.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-<img src='https://user-images.githubusercontent.com/56774880/141044108-a5583a45-9b3d-4dcc-9177-1153da40faa4.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
-<img src='LikePT2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://user-images.githubusercontent.com/56774880/146314927-c8c6137f-c92f-41aa-ac34-23d34dbbe13c.gif' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
+
 
 ## Table of Contents
 1. [Overview](#Overview)
